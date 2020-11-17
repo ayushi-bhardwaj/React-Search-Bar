@@ -1,6 +1,8 @@
 # React Search Bar
 Responsive earch Bar component using react.js and redux.
 
+# Hosted Link https://reactsearchbar.herokuapp.com/
+
 ![Alt Text](https://i.imgur.com/fJCxBFd.gif)
 # Features/Tasks
 - Search through an array of strings.
