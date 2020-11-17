@@ -1,5 +1,5 @@
 # React Search Bar
-Responsive earch Bar component using react.js and redux.
+Responsive Search Bar component using react.js and redux.
 
 # Hosted Link
 https://reactsearchbar.herokuapp.com/
