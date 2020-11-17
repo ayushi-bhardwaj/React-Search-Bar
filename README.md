@@ -30,8 +30,6 @@ $ npm install
 ## Brief Working 
 Enter a string in the input field.If a string is already present which matches with the input then suggestions are shown with the input string highlighted in the suggestions.If no suggestions are present and user presses "Enter" key then the input is added as a seperate string in the array.
 
-#
-- 
 
 
  
