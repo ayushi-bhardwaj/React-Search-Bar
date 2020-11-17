@@ -1,7 +1,8 @@
 # React Search Bar
 Responsive earch Bar component using react.js and redux.
 
-# Hosted Link https://reactsearchbar.herokuapp.com/
+# Hosted Link
+https://reactsearchbar.herokuapp.com/
 
 ![Alt Text](https://i.imgur.com/fJCxBFd.gif)
 # Features/Tasks
@@ -11,7 +12,7 @@ Responsive earch Bar component using react.js and redux.
 - Fully resposive on all screen sizes.
 
 
-## Technology Used
+## Technologies Used
 -**Front-end** - React.js, Redux Store, Html, CSS
 -**Hosting Platform** - Heroku
 
